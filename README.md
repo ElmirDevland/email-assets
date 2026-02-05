@@ -1,0 +1,2 @@
+# email-assets
+test task
